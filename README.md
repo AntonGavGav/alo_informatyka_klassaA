@@ -2,7 +2,7 @@
 
 Solutions for all ALO IT tasks for class "a", teacher: Piotr Gago
 
-### [Liceum_2A_ASD](./Liceum_2A_ASD)
+### [Liceum_2A_ASD](./ASD)
 | Task                                                 | Solution                                            | Mark  |
 |------------------------------------------------------|-----------------------------------------------------|-------| 
 |Lekcja 11.01 - rekurencja                             |[link](./ASD/Lekcja%2011.01%20-%20rekurencja)      |none   |
