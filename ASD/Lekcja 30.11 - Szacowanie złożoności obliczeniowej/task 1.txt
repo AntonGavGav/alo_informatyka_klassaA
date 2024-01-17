@@ -1,0 +1,21 @@
+Task 1
+O(n/4) -> O(n)
+Task 2
+O(log(n))
+Task 3
+O(n*(n + log(n))) -> O(n^2+n log(n)) -> O(n^2)
+Task 4
+O(n^3 +10n) -> O(n^3)
+Task 5
+O(n^2)
+Task 6
+O((n^2)/2) -> O(n^2)
+Task 7
+O( (n/2) * (2+n) ) -> O(n+n^2/2) -> O(n^2)
+Task 8
+There is a mistake in the task. If in the second loop was intended to be "j" not "i" then the complexity is:
+O(n*log(n) + n^2) -> O(n^2)
+If it is not the mistake and "i" was intended than:
+O(infinity) 
+Task 9
+O(1)

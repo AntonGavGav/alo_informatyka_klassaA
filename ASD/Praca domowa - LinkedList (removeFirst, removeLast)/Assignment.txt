@@ -1,0 +1,3 @@
+Implementujemy metodę removeFirst i removeLast
+https://pastebin.com/paYXFus7
+https://pastebin.com/aYR5gVqW
