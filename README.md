@@ -7,7 +7,7 @@ To download a file click a link of a file you want to download and then copy it'
 ### [Liceum_2A_ASD](./ASD)
 | Task                                                 | Solution                                            | Mark  |
 |------------------------------------------------------|-----------------------------------------------------|-------| 
-|Lekcja 08.02 - stosy i kolejki						   |[link](./ASD/Lekcja%2008.02%20-%20stosy%20i%20kolejki|none|
+|Lekcja 08.02 - stosy i kolejki						   |[link](./ASD/Lekcja%2008.02%20-%20stosy%20i%20kolejki)|none|
 |Lekcja 11.01 - rekurencja                             |[link](./ASD/Lekcja%2011.01%20-%20rekurencja)      |none   |
 |Lekcja 4.01 - zadanie programistyczne - dodatkowa ocena|[link](./ASD/Lekcja%204.01%20-%20zadanie%20programistyczne%20-%20dodatkowa%20ocena)|none   |
 |Lekcja 4.01 - poprawka - złożoności obliczeniowe      |[link](./ASD/Lekcja%204.01%20-%20poprawka%20-%20złożoności%20obliczeniowe)|none   |
