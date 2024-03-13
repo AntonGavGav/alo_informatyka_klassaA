@@ -7,6 +7,7 @@ To download a file click a link of a file you want to download and then copy it'
 ### [Liceum_2A_ASD](./ASD)
 | Task                                                 | Solution                                            | Mark  |
 |------------------------------------------------------|-----------------------------------------------------|-------| 
+|Lekcja 7.03 - Slowa								   |[link](./ASD/Lekcja%207.03%20-%20Slowa)				|none|
 |Lekcja - 22.02 - zadania							   |[link](./ASD/Lekcja%20-%2022.02%20-%20zadania)		|none|
 |Lekcja 15.02 - zbiory								   |[link](./ASD/Lekcja%2015.02%20-%20zbiory)			|none|
 |Lekcja 08.02 - stosy i kolejki						   |[link](./ASD/Lekcja%2008.02%20-%20stosy%20i%20kolejki)|none|
