@@ -26,6 +26,7 @@ To download a file click a link of a file you want to download and then copy it'
 ### [Liceum_2A_PK](./PK)
 | Task                                                 | Solution                                            | Mark  |
 |------------------------------------------------------|-----------------------------------------------------|-------|
+|Lekcja 7.03 - zadanie - liczby		|[link](./PK/Lekcja%207.03%20-%20zadanie%20-%20liczby)|none|
 |Lekcja 22.02						|[link](./PK/Lekcja%2022.02)				|none|
 |Lekcja 11.01 - wyrażenia regularne |[link](./PK/Lekcja%2011.01%20-%20wyrażenia%20regularne) |none | 
 |Lekcja 21.12 - wczytywanie danych z pliku |[link](./PK/Lekcja%2021.12%20-%20wczytywanie%20danych%20z%20pliku) |5/5 | 
